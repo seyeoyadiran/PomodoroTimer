@@ -1,5 +1,3 @@
-# PomodoroTimer
-
 # Simple Pomodoro Timer
 
 ## Functionalities include 
